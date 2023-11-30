@@ -10,6 +10,7 @@
 
 <h1>angel branch 작업중...</h1>
 <h2>추가 작업중ㅇ....</h2>
+<img src="./res/8.png" width = "300" border="5">
 
 </body>
 </html>
